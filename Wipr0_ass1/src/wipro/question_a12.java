@@ -12,5 +12,5 @@ public class question_a12 {
 			System.out.println("False");
 		}
 		sc.close();
-	}
+		}
 }
