@@ -17,5 +17,6 @@ public class question_a6 {
 		else {
 			System.out.println("the percentage of intrest is 10.5%");
 		}
+		sc.close();
 		}
 }
